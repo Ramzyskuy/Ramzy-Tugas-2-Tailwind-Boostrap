@@ -70,6 +70,6 @@ project-folder/
 ---
 
 ## 👤 Pembuat
-Nama: Joshua  
+Nama: Ramzy ahmad ardany
 NIM: 2411102441206  
 Mata Kuliah: Pemrograman Web / Praktikum PBO
